@@ -31,7 +31,7 @@ Mi experiencia previa en gestión y atención al cliente me aporta habilidades c
 🔹 [ft_printf](https://github.com/Bohemiogenio/42/tree/main/ft_printf): Implementación de la función printf en C.  
 🔹 [get_next_line](https://github.com/Bohemiogenio/42/tree/main/get_next_line): Lectura eficiente de archivos línea a línea.  
 🔹 [Dungeon Crawler en Unity](#): Videojuego 2D con combate por turnos (en desarrollo).  
-🔹 [Aplicación Flutter](#): Proyecto en desarrollo para explorar el potencial de Flutter en móvil, escritorio y web.  
+ 
 
 ---
 
